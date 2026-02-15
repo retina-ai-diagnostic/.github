@@ -1,12 +1,28 @@
-## Hi there 👋
+# 👁️ Eye Diagnostic System
 
-<!--
+Система диагностики глазных заболеваний с использованием нейросетей.  
+Анализ снимков глазного дна с помощью искусственного интеллекта.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📦 Репозитории проекта
+
+| Репозиторий | Описание | Технологии | Статус |
+|------------|----------|------------|--------|
+| [frontend](https://github.com/ВАША_ОРГАНИЗАЦИЯ/frontend) | Веб-интерфейс для загрузки и просмотра результатов | Next.js, TypeScript, Tailwind | 🚧 В разработке |
+| [backend](https://github.com/ВАША_ОРГАНИЗАЦИЯ/backend) | API сервер для обработки запросов | NestJS, PostgreSQL | ⏳ Планируется |
+| [ai-service](https://github.com/ВАША_ОРГАНИЗАЦИЯ/ai-service) | Нейросеть для диагностики | FastAPI, PyTorch | ⏳ Планируется |
+
+---
+
+## 🚀 Быстрый старт
+
+```bash
+# Клонируйте все репозитории
+git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/frontend
+git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/backend
+git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/ai-service
+
+# Запуск через Docker Compose (скоро)
+# docker-compose up
+```
