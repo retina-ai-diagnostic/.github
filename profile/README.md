@@ -19,9 +19,9 @@
 
 ```bash
 # Клонируйте все репозитории
-git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/frontend
-git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/backend
-git clone https://github.com/ВАША_ОРГАНИЗАЦИЯ/ai-service
+git clone https://github.com/retina-ai-diagnostic/frontend
+git clone https://github.com/retina-ai-diagnostic/backend
+git clone https://github.com/retina-ai-diagnostic/ai-service
 
 # Запуск через Docker Compose (скоро)
 # docker-compose up
